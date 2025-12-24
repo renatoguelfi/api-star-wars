@@ -42,7 +42,7 @@ Tem ${count} personagens na base de dados.
 
 ## Lista de personagens
 
-Name | Height | Mass | Hair Color | Skin Color | Eye Color | Birth Year | Gender
+Nome | Altura | Massa | Cor do Cabelo | Cor da Pele | Cor dos Olhos | Ano de Nascimento | Gênero
 ---- | ------ | ---- | ---------- | ---------- | --------- | ---------- | -------
 ${results
             .map(item =>
